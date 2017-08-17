@@ -1,0 +1,15 @@
+PODS:
+  - Firebase (2.5.0)
+  - SwiftLint (0.21.0)
+
+DEPENDENCIES:
+  - Firebase (= 2.5.0)
+  - SwiftLint
+
+SPEC CHECKSUMS:
+  Firebase: 744617c0733b45198f9486ebd5cac64ec2d10d79
+  SwiftLint: 6de8b2d15f43c482bdec2953b8cfd696faa876e8
+
+PODFILE CHECKSUM: 1ac8221ad9b5b53de98a6a6f93d161bee300982e
+
+COCOAPODS: 1.2.1
